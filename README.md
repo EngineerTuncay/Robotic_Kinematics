@@ -10,3 +10,7 @@ Robotumuz programın açılması esnasında sıfır konumunda yer almaktadır. R
 
 Robotun pozisyonunu ister robot açı ve eklem uzunlukları ile ayarlayabilir ister robotun bulunmasını istediğiniz X, Y ve Z koordinatlarını girerek ayarlayabilirsiniz.
 Robot pozisyonlamayı hibrit olarakta yapabilirsiniz; başlangıç konumunu açı ve eklem uzunuğu ile final konumunu ise Px, Py ve Pz bilgilerini girerek yapabilirsiniz, tam tersi de mümkündür.
+
+# Matlab projenizi uygun bir maliyete yaptırmak için;
+# Wp: +90 542 667 08 99
+# Email: tuncayuslu1997@gmail.com
